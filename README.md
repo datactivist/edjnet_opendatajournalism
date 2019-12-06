@@ -4,10 +4,8 @@
 
 This webinar is organized and funded by [the European datajournalism newtork (EDJNet)](https://www.europeandatajournalism.eu/). The preparation, presentation and documentation are produced by [Datactivist](https://datactivist.coop/).
 
-
-.center[
 ## Webinar
-]
+
 
 ### Event
 
@@ -37,10 +35,7 @@ The detail will be provided upon release.
 
 ------
 
-
-.center[
 ## Documentation
-]
 
 
 
