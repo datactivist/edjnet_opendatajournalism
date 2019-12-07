@@ -1,0 +1,116 @@
+---
+title: "Open data journalism"
+subtitle: "(working title)"
+author: "Sylvain Lapoix, Datactivist"
+date: "EDJNet webinar - 10/12/2019"
+output:
+  SlidesDatactivist::moon_reader:
+    css: [default, datactivist, datactivist-fonts]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+params:
+  slug: edjnet_opendatajournalism/webinar
+---
+
+layout: true
+  
+
+`r paste0("<div class='my-footer'><span>", params$event, "</span> <center><div class=logo><img src='https://github.com/datactivist/slides_datactivist/raw/master/inst/rmarkdown/templates/xaringan/resources/img/fond_noir_monochrome.png' width='100px'></center></span></div>")` 
+
+---
+
+class: center, middle
+
+Those slides are available online : `r paste0("http://datactivist.coop/", params$slug)`
+
+Sources : `r paste0("https://github.com/datactivist/", params$slug)`
+
+
+Datactivist productions are freely reusable under the terms of
+[Creative Commons 4.0 BY-SA license](https://creativecommons.org/licenses/by-sa/4.0/legalcode.fr).
+
+<BR>
+<BR>
+
+![](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png)
+
+
+---
+
+
+
+## Who are we ?
+
+<BR><BR><BR><BR>
+
+[![](https://github.com/datactivist/slides_datactivist/raw/master/inst/rmarkdown/templates/xaringan/resources/img/logo.png)](https://datactivist.coop)
+
+### We .red[open data], we make them .red[useful]
+
+---
+
+
+
+background-image: url(https://media.giphy.com/media/xT1XGAcyerZx2IOODm/giphy.gif)
+class: center, top, inverse
+
+
+## Before the webinar (10/12/2019), a little teaser ...
+
+
+---
+
+background-image: url(https://media.giphy.com/media/fjxduRhedxCEZnjlYR/giphy.gif)
+class: center, top, inverse
+
+
+## 1. Many good reasons to open your data (and methods)
+
+
+.footnote[and stop worrying about this absurd "stealing" thing.]
+
+
+---
+
+background-image: url(https://media.giphy.com/media/26tnpfXkdmUH9gV5S/giphy.gif)
+class: center, top, inverse
+
+
+## 2. Journalists and other people who already to it*
+
+.footnote[
+.right[\* and benefit from it !]
+]
+
+
+---
+
+background-image: url(https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif)
+class: center, top, inverse
+
+
+## 3. Tools and good practices to make it open
+
+
+---
+
+background-image: url(https://media.giphy.com/media/9dlXTP5QjLyHm/giphy.gif)
+class: center, top, inverse
+
+
+## 4. Let's do it !*
+
+.footnote[\* A practical exercise to set foot in the open community.]
+
+
+
+---
+
+class: inverse, center, middle
+
+# Thank you !
+
+Contact : [sylvain@datactivist.coop](mailto:sylvain@datactivist.coop)
