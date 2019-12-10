@@ -84,8 +84,9 @@ In short : data are abstractions recorded to build knowledge.]
 ### Difference between data and information
 
 .pull-left[
-Data are no informations :
-the convey bits that can be combined, compared or computed to produce information. Itself behind worked into knowledge. This difference is key to journalism use of data itself for it stands why : **raw data is not enough to cover a topic**.
+Data is not information: Data conveys bits that can be combined, compared or computed to produce information.
+
+This difference is key to journalism use of data itself for it stands why : **raw data is not enough to cover a topic**.
 ]
 
 .pull-right[
@@ -100,7 +101,7 @@ This hierarchy is attributed to [Russell Ackoff](http://en.wikipedia.org/wiki/Ru
 
 The definition of an "open" data spreads across legal and technical considerations.
 
-The Open Knowledge Foundation summed its core principle in the "[open definition](http://opendefinition.org/)". Here is the short version of it :
+The Open Knowledge Foundation summarized its core principles in the "[open definition](http://opendefinition.org/)". Here is the short version of it :
 > "Open means anyone can freely access, use, modify, and share for any purpose (subject, at most, to requirements that preserve provenance and openness)."
 
 ---
@@ -108,22 +109,22 @@ The Open Knowledge Foundation summed its core principle in the "[open definition
 ### Evaluating openness
 
 .pull-left[
-Criterias apply to specify levels of openness :
+Criteria apply to specify the level of openness :
 1. completeness ;
 2. primacy (data must be first-hand) ;
 3. timely (up to date) ;
 4. accessible (data must be obtainable in easy ways) ;
 5. machine-readable (can be process by a computer directly) ;
-6. non discrimnatory (no need to register)
+6. non discriminatory (no need to register)
 7. in open format (no XLSX !) ;
 8. under open licence.
 
-Open data is not only a technical consideration, it's also a policial demand.
+Open data is not only a technical consideration, it's also a political demand.
 ]
 
 .pull-right[
 Those criteria give way to evaluation of level of openness :
-* like [the Open Data Index](https://index.okfn.org/place/) (by OKFN, bellow) ;
+* like [the Open Data Index](https://index.okfn.org/place/) (by OKFN, below) ;
 * the [Open Data Barometer](https://opendatabarometer.org/2ndEdition/analysis/rankings.html) (by the Web Foundation);
 * the [Right to information rating](https://www.rti-rating.org/) ;
 * and many more.
@@ -157,23 +158,23 @@ class: center, top, inverse
 
 ---
 
-### Good reason to use it #1 : it's becoming more and more common !
+### Reason #1 : it's becoming more and more common !
 
 In a context of global integration through Open Government Partnership (among other initiatives), access to information laws are becoming more and more common :
 * [79 countries](https://www.opengovpartnership.org/our-members/#national) and [20 local governments](https://www.opengovpartnership.org/our-members/#local) joined the OGP, committing to an action plan to open their administration's data ;
-* Open Knowledge Foundation provides a wide coverage of available data by administration and type for [94 places](https://index.okfn.org/place/) (countries and communities) accross the world.
+* Open Knowledge Foundation provides a wide coverage of available data by administration and type for [94 places](https://index.okfn.org/place/) (countries and communities) across the world.
 
 Check yours !
 
 
 ---
 
-### Good reason #2 : it makes people accountable
+### Reason #2 : it makes people accountable
 
 .pull-left[
 Using open data is quoting someone's word : the producer's.
 
-Hence : using open data to check or analyse the actions, declarations or structure of an organization opens only two options :
+Hence using open data to check or analyse the actions, declarations or structure of an organization opens only two options :
 1. react and comment on the facts exposed ;
 2. correct the data themselves if they're not relevant.
 
@@ -237,7 +238,7 @@ That's pretty much thinking backwards : if the data is already open and the news
 
 This assumption is (we think) based on two misconceptions :
 1. **journalism over-reliance on closed sources** : as one of my first editor in chief said, *"sometimes, all you need is the phone number of the attorney general"* ... but sometimes, you can just bring up your skills and dig out good news ! Journalism **is** a technical job ;
-2. **journalists own stories** : topics and debates are no-one's property. Put in another way, they are everyone's property. Then, who can steal something that nobody owns ? [asks the Sphynx]
+2. **journalists own stories** : topics and debates are no-one's property. Put in another way, they are everyone's property. Then, who can steal something that nobody owns ? [asks the Sphinx]
 
 --
 
@@ -267,7 +268,7 @@ Hence, improvement of open data policy is linked to improvement of information q
 
 --
 
-Those demand are already embraced by strong communities : hackers, researchers and social justice organization. They can be allies in this search for better public information and sharing.
+Those demands are already embraced by strong communities : hackers, researchers and social justice organization. They can be allies in this search for better public information and sharing.
 
 To make it short and, as some wisemen said :
 
@@ -304,7 +305,7 @@ Instead, we'll give you :
 * open ways to do datajournalism.
 
 We will repeatedly refer to some core values of the community (borrowed from research, hacker or free culture) :
-1. reproductibility ;
+1. reproducibility ;
 2. collaboration ;
 3. sharing.
 
@@ -343,7 +344,7 @@ You're in luck ! Pick your source and proceed.
 ### Case #2 : it's open but not usable
 
 .pull-left[
-Some data come in bad format that can't be processed right away. This includes : PDFs,  data spread across multiple files of different formats, data stucks in websites ...
+Some data come in bad format that can't be processed right away. This includes : PDFs,  data spread across multiple files of different formats, stucked in websites ...
 
 You'll have to piece it all together into usable format.]
 
@@ -364,10 +365,10 @@ You'll have to piece it all together into usable format.]
 ]
 ---
 
-### Case #3 : it's should be open but it's not
+### Case #3 : it should be open but it's not
 
 .pull-left[
-Freedom of information act and open government act stands what data should be open or not.
+FOI and OG acts state what data should be open or not.
 
 But sometimes, something isn't right :
 * years missing in time series ;
@@ -433,7 +434,7 @@ class: center, top, inverse
 
 ### First recommandation : muscle your opening skills !
 
-Opening data need interoperability. Meaning : you need to use tools and methods that don't create technical road-blocks to what you and they share.
+Opening data needs interoperability. Meaning : you need to use tools and methods that don't create technical road-blocks to what you and they share.
 
 Some simple recommandation will get you a long way.
 
@@ -441,7 +442,7 @@ Some simple recommandation will get you a long way.
 
 ### 1. Get on Git
 
-Git is a programming language designed to collaborate and keep track of the modificaiton on programs. Of common use in the programming community, it spread accross every program (and non program) using groups to share other things than code : [vegetarian recipes](https://github.com/hrs/recipes), [District of Columbia Law Code](https://github.com/DCCouncil/dc-law) ... and data, obviously.
+Git is a system designed to collaborate and keep track of the modificaitons on programs. Of common use in the programming community, it spread across every program (and non program) using groups to share other things than code : [vegetarian recipes](https://github.com/hrs/recipes), [District of Columbia Law Code](https://github.com/DCCouncil/dc-law) ... and data, obviously.
 
 It is used on many platforms : [Github](https://github.com/), [Gitlab](https://framagit.org/) or [Framagit](https://framagit.org/public/projects).
 
@@ -473,7 +474,7 @@ Open data care for data. It doesn't care for commented cells, shiny colors and m
 
 Two formats have the favors of open data producers and users when it comes to publishing :
 * **CSV**, for *comma separated value*, is a gold standard for computer data : light, easy to read and 100% interoperable (once the encoding is right). It is the ideal format for "flat datasets", meaning data that fit into the one observation per line / one variable per column model (classic tabular data) ;
-* **Json**, for *Javascript object notation*, is very common in object oriented programming (especially on the web). Also text based, it comes handy to store layered data and complexe object to be called by keys instead of rows and columns.
+* **Json**, for *Javascript object notation*, is very common in object oriented programming (especially on the web). Also text based, it comes handy to store layered data and complexe objects to be called by keys instead of rows and columns.
 
 ---
 
@@ -491,13 +492,17 @@ class: center, top, inverse
 
 Be sure what you can and can't do with the data.
 
-Creative Commons doens't mean a thing by itself, you should look at the following letters for :
+Creative Commons doesn't mean a thing by itself, you should look at the following letters for :
 * Attribution : is it "BY" ? Who should you refer to ?
 * Sharing : can you share it with another license ?
 * $ : can you use it for paid content (including just ads) ?
 * Modification and remix, etc.
 
-For quick ref : you'll be fine with [Odbl](https://opendatacommons.org/licenses/odbl/1.0/). Within doubt, check [the Open Data Initiative guide to reuser](https://theodi.org/article/reusers-guide-to-open-data-licensing/).
+For quick ref : [Odbl](https://opendatacommons.org/licenses/odbl/1.0/) is safe. Within doubt, check [the Open Data Initiative guide to reuser](https://theodi.org/article/reusers-guide-to-open-data-licensing/).
+
+---
+
+### Quick quality check
 
 ---
 
@@ -510,7 +515,7 @@ For quick ref : you'll be fine with [Odbl](https://opendatacommons.org/licenses/
 ### File demand
 
 Before filing a demand, get in contact with the administration :
-stand clearly the data you're looking for, the reason you believe they exist and should be available and describe the reason you need it (be general in the terms, "documenting the public office activity" goes a longer way than "finding proof of corruption at the attorney general's office"). **Always specify a due date**.
+clearly stand the data you're looking for, the reason you believe they exist and should be available and describe the reason you need it (be general in the terms, "documenting the public office activity" goes a longer way than "finding proof of corruption at the attorney general's office"). **Always specify a due date**.
 
 Once you've have a formal "no", or waited long enough (depending on your knowing of the administration's usual delays), you can **go to the filing procedure**.
 
@@ -577,8 +582,8 @@ Usual steps include :
   * reference datasets (such as [World Bank lending groups](https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups)) ;
 * standardise categories.
 
-If you use code, this is useful to publish ! Go to .red[Share the method].
-If you improved a dataset, it can be shared as a better version, go to .red[Share the data].
+If you use code, this is useful to publish ! Go to .red[**Share the method**].
+If you improved a dataset, it can be shared as a better version, go to .red[**Share the data**].
 
 ]
 
@@ -588,7 +593,7 @@ If you improved a dataset, it can be shared as a better version, go to .red[Shar
 
 If the data is not "machine readable" maybe it's "human readable" (or "HR" for droids) or it can be scraped from a source.
 
-Conversion from non machine-readable format to tabular format is a useful task that can unleash hidden gems :
+Conversion from non machine-readable format to tabular format is a useful task that can reveal hidden gems :
 * public archives ;
 * corporate documents ;
 * hand-written notes ;
@@ -612,13 +617,15 @@ In computer programming, this task of *translating* something into machine langu
 
 #### Example of data sharing : Github as a data-platform
 
-Independant datajournalist Alexandre Léchenet published an investigation on GAFAMUT (adding Uber and Twitter) in the EU made by compiling data from open sources. Once visualized, the CSV, listing meetings, topics and administrations involved, was published on [the project's repository on its personal Github](https://github.com/alphoenix/donnees/tree/master/lobbies-gafamut).
+Independant datajournalist Alexandre Léchenet published an investigation on GAFAMUT (adding Uber and Twitter) in the EU made by compiling data from open sources. Once visualized, the CSVs (listing meetings, topics and administrations involved) were published on [the project's repository on its personal Github](https://github.com/alphoenix/donnees/tree/master/lobbies-gafamut) .
 
 ![](./img/alphoenix_gafamut.png)
 
 ---
 
 #### Example of data sharing : community resources
+
+
 
 ---
 
@@ -629,12 +636,12 @@ Once it's all done, gather up the documentation and .red[share the method] !
 
 ---
 
-#### Ex. 1 : translate your problematics like CCFD and Sherpa with Le radar du devoir de vigilance
+#### Ex. 1 : translate your problematics like CCFD Terre Solidaire and Sherpa with Le radar du devoir de vigilance
 
 .pull-left[
 Two French branches of social justice NGOs, CCFD Terres Solidaires and Sherpa, were investigating the implementation of CSR law named "Devoir de vigilance" adopted on March 27th 2017 by France.
 
-Companies above given limits of employees were asked to publish CSR report but no official list was published by the legislator.
+Companies above a given number employees were asked to publish CSR report but no official list was published by the legislator.
 
 With the help of Datactivist, the NGOs applied the law's criteria across two open company registers and gathered a list of 237 eligible companies. This list allowed them to name those not applying the law and ask for better corporate transparency.
 ]
@@ -661,18 +668,13 @@ Based on [a public dataset of US high school yearbook](http://people.eecs.berkel
 
 ---
 
-#### Example of computation : link the dots
-
-
----
-
 ### Share the method
 
 ---
 
 #### Examples
 
-Most of the example quoted bellow are documented on Github, among others :
+Most of the example quoted below are documented on Github, among others :
 * [Tennis Racket](https://github.com/BuzzFeedNews/2016-01-tennis-betting-analysis) ;
 * [The big data of big hair](https://github.com/andronovhopf/Bigdata_Bighair) ;
 
@@ -683,6 +685,13 @@ class: center, top, inverse
 
 ## 4. Now let's dig in !
 
+
+---
+
+background-image: url(./img/elvis.png)
+class: center, bottom, inverse
+
+### Chain the melody with [ELVIS](https://tenders.exposed/)
 
 ---
 
@@ -698,6 +707,16 @@ background-image: url(https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif)
 class: center, top, inverse
 
 ## Keep me posted, I'd be glad to know !
+
+---
+.center[
+## Be open, be proud, and remember ...
+
+--
+
+![](https://media.giphy.com/media/CbOGTbFy6mluU/giphy.gif)
+
+So, be worthy of it !]
 
 ---
 
